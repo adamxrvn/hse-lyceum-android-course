@@ -16,7 +16,7 @@ Endpoint: https://hse-sandwich-a47b9a61e68b.herokuapp.com/
     implementation("io.coil-kt:coil-compose:2.0.0-rc01")
 ```
 
-#### 2. Добавляем доступ в интернет AndroidManifest.xml
+#### 2. Добавляем доступ в интернет `AndroidManifest.xml`
 ```kotlin
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
