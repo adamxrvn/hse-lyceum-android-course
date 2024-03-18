@@ -19,3 +19,8 @@ implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
 
+
+#### Загрузка изображений
+```kotlin
+implementation("io.coil-kt:coil-compose:2.0.0-rc01")
+```
