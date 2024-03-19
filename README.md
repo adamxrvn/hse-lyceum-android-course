@@ -17,16 +17,21 @@
 - [Drawables](https://github.com/adamxrvn/hse-lyceum-android-course/tree/1ef0386fd944daef308ce502907a134389757ed5/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F%20-%2001%20/drawable)
 - [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/1ef0386fd944daef308ce502907a134389757ed5/%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F%20-%2001%20/Android%20App)
 
-### 2. Retrofit и работа с сетью
+### 2. Retrofit
+- [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/fb6ef1ef4fec2804c716733b614c763e46b76fc5/02%20-%20Retrofit/Retrofit%20-%2002.pdf)
+- [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/99b487c362896580dd7ca4209c11dc3cde203622/02%20-%20Retrofit/app)
+
+### 3. MVVP
 *...*
 
-### 3. Persistent Storage/Room
+
+### 4. Persistent Storage/Room
 *...*
 
-### 4. Архитектура
+### 5. 
 *...*
 
-### 5. To be continued
+### 6. To be continued
 
 ## Полезные ссылки
 - [Документация Kotlin](https://kotlinlang.org/docs/home.html)
