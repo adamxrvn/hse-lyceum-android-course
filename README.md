@@ -21,7 +21,7 @@
 - [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/fb6ef1ef4fec2804c716733b614c763e46b76fc5/02%20-%20Retrofit/Retrofit%20-%2002.pdf)
 - [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/99b487c362896580dd7ca4209c11dc3cde203622/02%20-%20Retrofit/app)
 
-### 3. MVVP
+### 3. MVVM
 *...*
 
 
