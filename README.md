@@ -28,6 +28,7 @@
 
 ### 4. Введение в SQL
 - [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/3f1366290c4ae9738c5f2a3cbcaaab90e60d930a/04%20-%20SQL/04%20-%20SQL.pdf)
+- [База данных](https://github.com/adamxrvn/hse-lyceum-android-course/blob/0a9c273e73f02a293685ff6ede52b09e8de131dc/04%20-%20SQL/bank.db)
 
 ### 5. Persistent Storage/Room
 *...*
