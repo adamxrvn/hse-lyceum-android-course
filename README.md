@@ -22,13 +22,14 @@
 - [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/99b487c362896580dd7ca4209c11dc3cde203622/02%20-%20Retrofit/app)
 
 ### 3. MVVM
-*...*
+- [Слайды](#)
+- [Проект приложения](#)
 
 
-### 4. Persistent Storage/Room
-*...*
+### 4. Введение в SQL
+- [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/3f1366290c4ae9738c5f2a3cbcaaab90e60d930a/04%20-%20SQL/04%20-%20SQL.pdf)
 
-### 5. 
+### 5. Persistent Storage/Room
 *...*
 
 ### 6. To be continued
