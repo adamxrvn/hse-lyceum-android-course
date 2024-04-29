@@ -31,10 +31,11 @@
 - [База данных](https://github.com/adamxrvn/hse-lyceum-android-course/blob/4858c8d10a73c03967f08345d9fdd1aab2f39bbc/04%20-%20SQL/bank.db)
 
 ### 5. Persistent Storage/Room
-- [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/4858c8d10a73c03967f08345d9fdd1aab2f39bbc/04%20-%20SQL/04%20-%20SQL.pdf)
-- [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/99b487c362896580dd7ca4209c11dc3cde203622/02%20-%20Retrofit/app)
+- [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/d1f8e582146f7a1ab0e05a2059290c9fd2da428c/05%20-%20Room/05%20-%20Room.pdf)
+- [Проект приложения](https://github.com/philipplackner/RoomGuideAndroid/)
 
 ### 6. To be continued
+...
 
 ## Полезные ссылки
 - [Документация Kotlin](https://kotlinlang.org/docs/home.html)
