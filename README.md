@@ -31,7 +31,8 @@
 - [База данных](https://github.com/adamxrvn/hse-lyceum-android-course/blob/4858c8d10a73c03967f08345d9fdd1aab2f39bbc/04%20-%20SQL/bank.db)
 
 ### 5. Persistent Storage/Room
-*...*
+- [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/4858c8d10a73c03967f08345d9fdd1aab2f39bbc/04%20-%20SQL/04%20-%20SQL.pdf)
+- [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/99b487c362896580dd7ca4209c11dc3cde203622/02%20-%20Retrofit/app)
 
 ### 6. To be continued
 
