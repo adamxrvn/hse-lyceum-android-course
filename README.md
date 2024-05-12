@@ -37,6 +37,9 @@
 ### 6. To be continued
 ...
 
+### Проектная работа
+- [Задание](https://github.com/adamxrvn/hse-lyceum-android-course/blob/main/0X%20-%20Проект/Техническое%20Задание.pdf)
+
 ## Полезные ссылки
 - [Документация Kotlin](https://kotlinlang.org/docs/home.html)
 - [Документация Jetpack Compose](https://developer.android.com/jetpack/compose/documentation)
