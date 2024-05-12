@@ -33,6 +33,7 @@
 ### 5. Persistent Storage/Room
 - [Слайды](https://github.com/adamxrvn/hse-lyceum-android-course/blob/main/05%20-%20Room/05%20-%20Room.pdf)
 - [Проект приложения](https://github.com/adamxrvn/hse-lyceum-android-course/tree/main/05%20-%20Room/Simplified%20Example)
+
 ### 6. To be continued
 ...
 
